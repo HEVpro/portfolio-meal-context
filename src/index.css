@@ -21,3 +21,8 @@ h1 {
   text-align: center;
   font-size: 5rem;
 }
+@media only screen and (max-width: 500px) {
+  header {
+    height: 8em;
+  }
+}
